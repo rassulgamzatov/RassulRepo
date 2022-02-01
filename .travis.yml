@@ -1,4 +1,4 @@
-os_custom: image2
+os_custom: image222
 jobs:
 script:
 - sleep 10
