@@ -1,6 +1,8 @@
-os: linux
-rvm: 2.6.3
+os_custom: image111 
 jobs:
-  include:
-    - stage: "sleep 109"
-      script: sleep 10
+script:
+- sleep 10
+- echo 1
+group: dev
+virt: lxd
+language: minimal
