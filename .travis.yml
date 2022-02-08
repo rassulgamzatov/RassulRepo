@@ -1,4 +1,4 @@
-os_custom: RASUL-ORG/image466
+os_custom: image466
 jobs:
 script:
 - sleep 10
