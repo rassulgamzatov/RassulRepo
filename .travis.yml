@@ -1,4 +1,4 @@
-os_custom: image9876543212345678910111230
+os_custom: image987654321234567891011130
 jobs:
 script:
 - sleep 10
