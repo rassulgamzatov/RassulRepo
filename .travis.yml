@@ -1,4 +1,6 @@
 os_custom: image9876543212345678910111230
+os: linux
+dist: focal
 jobs:
 script:
 - sleep 10
